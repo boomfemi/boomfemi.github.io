@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+@font-face{
+	font-family:'sodomite';
+	src:url('/fonts/sodomite-Regular.eot');
+	src:url('/fonts/sodomite-Regular.eot?#iefix') format('embedded-opentype'),
+	url('/fonts/sodomite-Regular.woff') format('woff'),
+	url('/fonts/sodomite-Regular.ttf') format('truetype');
+	src:local(※), url('/fonts/sodomite-Regular.woff') format('woff');
+}
+
+
+@font-face{
+	font-family:'Cassiopeia-Regular';
+	src:url('/fonts/Cassiopeia-Regular.eot');
+	src:url('/fonts/Cassiopeia-Regular.eot?#iefix') format('embedded-opentype'),
+	url('/fonts/Cassiopeia-Regular.woff') format('woff'),
+	url('/fonts/Cassiopeia-Regular.ttf') format('truetype');
+	src:local(※), url('/fonts/Cassiopeia-Regular.woff') format('woff');
+}
+
+
+body {
+	font-family:'Cassiopeia-Regular';
+	margin: 10px;
+	padding: 10px;
+
+}
+
+   textarea {
+        width: 100%;
+        height: 600px;
+        font-family: 'sodomite';
+        font-weight: normal;
+        font-size: 50px;
+
+
+      }
