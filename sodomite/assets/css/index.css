@@ -10,18 +10,8 @@
 }
 
 
-@font-face{
-	font-family:'Cassiopeia-Regular';
-	src:url('/fonts/Cassiopeia-Regular.eot');
-	src:url('/fonts/Cassiopeia-Regular.eot?#iefix') format('embedded-opentype'),
-	url('/fonts/Cassiopeia-Regular.woff') format('woff'),
-	url('/fonts/Cassiopeia-Regular.ttf') format('truetype');
-	src:local(※), url('/fonts/Cassiopeia-Regular.woff') format('woff');
-}
-
-
 body {
-	font-family:'Cassiopeia-Regular';
+	font-family:'sodomite';
 	margin: 10px;
 	padding: 10px;
 	background-color: black;
